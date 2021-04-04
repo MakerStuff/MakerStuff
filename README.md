@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MakerStuff
+- 👀 I’m interested in data privacy
+- 🌱 I’m currently learning how to program bots for the matrix protocol
+- 💞️ I’m looking to collaborate on leaving microsoft and google behind
+- 📫 Reach me gitlab https://gitlab.com/Raspilot, matrix, mastodon, threema, signal…
